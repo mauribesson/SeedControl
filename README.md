@@ -1,2 +1,2 @@
 # SeedControl
-Software de control de crecimiento de semillas.
+control de crecimiento de semillas.

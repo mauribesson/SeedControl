@@ -1,0 +1,36 @@
+Descripción del sistema
+
+
+Descripción:
+
+* Sistema arquitectura cliente - servidos. 
+
+* El sistema debe ser capaz de controla el crecimiento de diferentes cultivos.
+
+* Indicándole al usuario cuando llevar adelante las tareas relacionadas al cultivo.
+
+* Una sistema de alerta y control, Herramienta útil para llevar adelante un correcto cultivo ,  
+
+* Visualización de mapas con los diferentes cultivos. 
+
+
+
+
+
+A futuro:
+
+* Sistema de control de cultivo inteligente y automatizado.            Capaz de llevar adelante el completo control de cultivos en    todos sus estadios. 
+
+* Autoabastecimiento de insumos, semillas, agua, agroquímicos.    
+
+* Análisis de climático. 
+
+* Recomendaciones inteligentes.
+
+* Monitoreo y control de plagas.  
+
+
+
+
+
+ 
